@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55e200df.css",
+    "main.js": "/static/js/main.8bde1c79.js",
+    "static/js/787.a6dba674.chunk.js": "/static/js/787.a6dba674.chunk.js",
+    "static/media/discover.jpg": "/static/media/discover.9f945b2900efbfbf7ddc.jpg",
+    "static/media/community-gardens.jpg": "/static/media/community-gardens.1f6fe78c906da477d815.jpg",
+    "static/media/indoor_outdoor.png": "/static/media/indoor_outdoor.049df1ce73082a6f7817.png",
+    "static/media/logo.jpg": "/static/media/logo.83d412194de8c882fb7f.jpg",
+    "index.html": "/index.html",
+    "main.55e200df.css.map": "/static/css/main.55e200df.css.map",
+    "main.8bde1c79.js.map": "/static/js/main.8bde1c79.js.map",
+    "787.a6dba674.chunk.js.map": "/static/js/787.a6dba674.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55e200df.css",
+    "static/js/main.8bde1c79.js"
+  ]
+}
